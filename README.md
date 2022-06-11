@@ -1,8 +1,4 @@
 ****************
-Projeto desenvolvido com o intuito de aprender a consumir API's e realizar operações de CRUD na disciplina de Programação de Scripts Fatec Franca.
-
-A parte de API desse trabalho foi desenvolvido utilizando como essencia a API construida em sala de aula durante as aulas do professor Neto.
-
 *****************
 
 Instruções:
